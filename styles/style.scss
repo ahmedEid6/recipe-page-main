@@ -27,7 +27,7 @@ body {
   background-color: var(--Stone-100);
   line-height: 1.7;
   color: var(--Stone-600);
-  font-size: 1.1rem;
+  font-size: 1.6rem;
 
   display: flex;
   align-items: center;
@@ -51,11 +51,11 @@ section {
 
 .recipe {
   margin-inline: auto;
-  margin-block: 10rem;
+  margin-block: 14rem;
   width: 100%;
-  max-width: 500px;
+  max-width: 740px;
   background-color: var(--White);
-  padding: 2rem;
+  padding: 4rem;
   border-radius: 20px;
 
   &__img {
@@ -65,13 +65,13 @@ section {
   }
 
   &__content {
-    margin-top: 1.5rem;
+    margin-top: 1.8rem;
 
     h1 {
-      font-size: 2.8rem;
+      font-size: 4rem;
       font-weight: 400;
       color: var(--Stone-900);
-      margin-bottom: 2rem;
+      margin-bottom: 2.5rem;
       line-height: 1;
     }
   }
@@ -101,7 +101,7 @@ section {
 
   h2 {
     font-family: "Outfit", sans-serif;
-    font-size: 1.3rem;
+    font-size: 1.6rem;
     color: var(--Rose-800);
     margin-bottom: 0.5rem;
     font-weight: 700;
@@ -131,7 +131,6 @@ section {
 
   h2 {
     margin-bottom: 0.75rem;
-    font-size: 1.8rem;
   }
 
   li {
